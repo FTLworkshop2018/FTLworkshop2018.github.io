@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Workshop <b>Field Theory come to Life</b>
 
 A place to include any other types of information that you'd like to include about yourself.
 
