@@ -5,7 +5,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/figs/favicon32.ico">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon32.ico?">
     -->
-    <link rel="shortcut icon" type="image/png" href="/favicon32.png">
+    <link rel="shortcut icon" type="image/png" href="{{ "/favicon32.png" | prepend: site.baseurl }}" >
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
